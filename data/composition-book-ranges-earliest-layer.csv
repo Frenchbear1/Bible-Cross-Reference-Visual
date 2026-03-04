@@ -1,0 +1,67 @@
+canonical_index,abbr,book,start_year,end_year,sort_year,start_label,end_label,sort_label,confidence,note
+1,Gen,Genesis,-1500,-1200,-1350,1500 BCE,1200 BCE,1350 BCE,low,Earliest pre-monarchic narrative and poetic traditions (highly conjectural).
+2,Exod,Exodus,-1500,-1200,-1350,1500 BCE,1200 BCE,1350 BCE,low,Earliest exodus traditions before later compositional shaping.
+3,Lev,Leviticus,-1200,-900,-1050,1200 BCE,900 BCE,1050 BCE,low,Earliest priestly legal traditions before final compilation.
+4,Num,Numbers,-1400,-1000,-1200,1400 BCE,1000 BCE,1200 BCE,low,Earliest wilderness traditions before later Priestly redaction.
+5,Deut,Deuteronomy,-750,-620,-685,750 BCE,620 BCE,685 BCE,medium,Earliest Deuteronomic law core before exilic expansions.
+6,Josh,Joshua,-1200,-900,-1050,1200 BCE,900 BCE,1050 BCE,low,Earliest conquest/settlement traditions before Deuteronomistic editing.
+7,Judg,Judges,-1200,-900,-1050,1200 BCE,900 BCE,1050 BCE,low,Earliest tribal traditions before Deuteronomistic editing.
+8,Ruth,Ruth,-500,-430,-465,500 BCE,430 BCE,465 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+9,1Sam,1 Samuel,-1050,-900,-975,1050 BCE,900 BCE,975 BCE,low,Earliest monarchic court and prophetic traditions.
+10,2Sam,2 Samuel,-1000,-850,-925,1000 BCE,850 BCE,925 BCE,low,Earliest monarchic court traditions.
+11,1Kgs,1 Kings,-970,-800,-885,970 BCE,800 BCE,885 BCE,low,Earliest royal annal traditions before final Deuteronomistic shaping.
+12,2Kgs,2 Kings,-900,-700,-800,900 BCE,700 BCE,800 BCE,low,Earliest royal annal traditions before final Deuteronomistic shaping.
+13,1Chr,1 Chronicles,-400,-347,-373,400 BCE,347 BCE,373 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+14,2Chr,2 Chronicles,-400,-347,-373,400 BCE,347 BCE,373 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+15,Ezra,Ezra,-350,-297,-323,350 BCE,297 BCE,323 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+16,Neh,Nehemiah,-350,-297,-323,350 BCE,297 BCE,323 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+17,Esth,Esther,-400,-347,-373,400 BCE,347 BCE,373 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+18,Job,Job,-1800,-1200,-1500,1800 BCE,1200 BCE,1500 BCE,low,Possible early wisdom/poetic core traditions (highly uncertain).
+19,Ps,Psalm,-1200,-500,-850,1200 BCE,500 BCE,850 BCE,low,Earliest poetic strata (including archaic hymnic material).
+20,Prov,Proverbs,-1000,-600,-800,1000 BCE,600 BCE,800 BCE,low,Earliest wisdom collections before later anthology growth.
+21,Eccl,Ecclesiastes,-450,-355,-402,450 BCE,355 BCE,402 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+22,Song,Song of Solomon,-500,-395,-447,500 BCE,395 BCE,447 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+23,Isa,Isaiah,-740,-700,-720,740 BCE,700 BCE,720 BCE,medium,Earliest Proto-Isaiah layer.
+24,Jer,Jeremiah,-627,-580,-603,627 BCE,580 BCE,603 BCE,medium,Earliest Jeremianic prophetic core.
+25,Lam,Lamentations,-586,-556,-571,586 BCE,556 BCE,571 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+26,Ezek,Ezekiel,-593,-571,-582,593 BCE,571 BCE,582 BCE,medium,Earliest Ezekiel visionary core.
+27,Dan,Daniel,-550,-165,-357,550 BCE,165 BCE,357 BCE,low,Earliest court-tale layer may predate apocalyptic final form.
+28,Hos,Hosea,-750,-730,-740,750 BCE,730 BCE,740 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+29,Joel,Joel,-400,-330,-365,400 BCE,330 BCE,365 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+30,Amos,Amos,-760,-740,-750,760 BCE,740 BCE,750 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+31,Obad,Obadiah,-600,-580,-590,600 BCE,580 BCE,590 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+32,Jonah,Jonah,-500,-395,-447,500 BCE,395 BCE,447 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+33,Mic,Micah,-750,-730,-740,750 BCE,730 BCE,740 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+34,Nah,Nahum,-650,-630,-640,650 BCE,630 BCE,640 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+35,Hab,Habakkuk,-620,-600,-610,620 BCE,600 BCE,610 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+36,Zeph,Zephaniah,-640,-620,-630,640 BCE,620 BCE,630 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+37,Hag,Haggai,-520,-515,-517,520 BCE,515 BCE,517 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+38,Zech,Zechariah,-520,-443,-481,520 BCE,443 BCE,481 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+39,Mal,Malachi,-500,-475,-487,500 BCE,475 BCE,487 BCE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+40,Matt,Matthew,35,70,53,35 CE,70 CE,53 CE,low,Earliest Jesus tradition strata behind Matthew.
+41,Mark,Mark,35,70,53,35 CE,70 CE,53 CE,low,Earliest Jesus tradition strata behind Mark.
+42,Luke,Luke,35,80,58,35 CE,80 CE,58 CE,low,Earliest Jesus tradition strata behind Luke.
+43,John,John,50,95,73,50 CE,95 CE,73 CE,low,Earliest Johannine tradition layers.
+44,Acts,Acts,35,80,58,35 CE,80 CE,58 CE,low,Earliest Lukan source strata behind Acts.
+45,Rom,Romans,57,58,58,57 CE,58 CE,58 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+46,1Cor,1 Corinthians,53,57,55,53 CE,57 CE,55 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+47,2Cor,2 Corinthians,55,58,57,55 CE,58 CE,57 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+48,Gal,Galatians,48,55,52,48 CE,55 CE,52 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+49,Eph,Ephesians,80,90,85,80 CE,90 CE,85 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+50,Phil,Philippians,54,55,55,54 CE,55 CE,55 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+51,Col,Colossians,62,82,72,62 CE,82 CE,72 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+52,1Thess,1 Thessalonians,51,51,51,51 CE,51 CE,51 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+53,2Thess,2 Thessalonians,51,71,61,51 CE,71 CE,61 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+54,1Tim,1 Timothy,100,100,100,100 CE,100 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+55,2Tim,2 Timothy,100,100,100,100 CE,100 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+56,Titus,Titus,100,100,100,100 CE,100 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+57,Phlm,Philemon,54,55,55,54 CE,55 CE,55 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+58,Heb,Hebrews,60,80,70,60 CE,80 CE,70 CE,low,Earliest sermonic/epistolary layer estimate.
+59,Jas,James,40,70,55,40 CE,70 CE,55 CE,low,Earliest paraenetic tradition layer estimate.
+60,1Pet,1 Peter,75,90,83,75 CE,90 CE,83 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+61,2Pet,2 Peter,110,110,110,110 CE,110 CE,110 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+62,1John,1 John,90,110,100,90 CE,110 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+63,2John,2 John,90,110,100,90 CE,110 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+64,3John,3 John,90,110,100,90 CE,110 CE,100 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+65,Jude,Jude,65,85,75,65 CE,85 CE,75 CE,low,"Earliest recoverable layer estimate (coarse, profile-level)."
+66,Rev,Revelation,68,95,82,68 CE,95 CE,82 CE,low,Earliest apocalyptic layer estimate before final publication.

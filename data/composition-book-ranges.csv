@@ -1,0 +1,67 @@
+canonical_index,abbr,book,start_year,end_year,sort_year,start_label,end_label,sort_label,confidence,note
+1,Gen,Genesis,-550,-400,-475,550 BCE,400 BCE,475 BCE,medium,Post-exilic synthesis of Priestly and non-Priestly material.
+2,Exod,Exodus,-700,-400,-550,700 BCE,400 BCE,550 BCE,low,Composite anthology spanning multiple periods; final form post-exilic.
+3,Lev,Leviticus,-600,-400,-500,600 BCE,400 BCE,500 BCE,medium,"Predominantly Priestly, exilic or post-exilic."
+4,Num,Numbers,-700,-400,-550,700 BCE,400 BCE,550 BCE,low,Priestly redaction over older narrative strata.
+5,Deut,Deuteronomy,-700,-400,-550,700 BCE,400 BCE,550 BCE,medium,Late monarchic law core with exilic and post-exilic expansions.
+6,Josh,Joshua,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with later editorial growth.
+7,Judg,Judges,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with exilic shaping.
+8,Ruth,Ruth,-500,-300,-400,500 BCE,300 BCE,400 BCE,medium,Commonly dated to the Persian period.
+9,1Sam,1 Samuel,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with exilic shaping.
+10,2Sam,2 Samuel,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with exilic shaping.
+11,1Kgs,1 Kings,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with exilic shaping.
+12,2Kgs,2 Kings,-620,-500,-560,620 BCE,500 BCE,560 BCE,medium,Part of the Deuteronomistic history with exilic shaping.
+13,1Chr,1 Chronicles,-400,-250,-325,400 BCE,250 BCE,325 BCE,medium,Chronicles is commonly placed in the Persian or early Hellenistic era.
+14,2Chr,2 Chronicles,-400,-250,-325,400 BCE,250 BCE,325 BCE,medium,Chronicles is commonly placed in the Persian or early Hellenistic era.
+15,Ezra,Ezra,-350,-200,-275,350 BCE,200 BCE,275 BCE,medium,Final form often placed in the late Persian to Ptolemaic period.
+16,Neh,Nehemiah,-350,-200,-275,350 BCE,200 BCE,275 BCE,medium,Final form often placed in the late Persian to Ptolemaic period.
+17,Esth,Esther,-400,-250,-325,400 BCE,250 BCE,325 BCE,medium,Often dated to the 4th or 3rd century BCE.
+18,Job,Job,-600,-400,-500,600 BCE,400 BCE,500 BCE,medium,Commonly dated between the 6th and 4th centuries BCE.
+19,Ps,Psalm,-1000,-100,-550,1000 BCE,100 BCE,550 BCE,low,Layered anthology with long transmission and expansion history.
+20,Prov,Proverbs,-900,-300,-600,900 BCE,300 BCE,600 BCE,low,Collection of collections assembled over many centuries.
+21,Eccl,Ecclesiastes,-450,-180,-315,450 BCE,180 BCE,315 BCE,high,Usually dated between Persian and early Hellenistic periods.
+22,Song,Song of Solomon,-500,-200,-350,500 BCE,200 BCE,350 BCE,low,"Often placed in the post-exilic period, with broad uncertainty."
+23,Isa,Isaiah,-740,-500,-620,740 BCE,500 BCE,620 BCE,medium,"Composite work spanning Proto-, Deutero-, and Trito-Isaiah layers."
+24,Jer,Jeremiah,-650,-200,-425,650 BCE,200 BCE,425 BCE,low,Core prophetic material with major editorial development and textual recensions.
+25,Lam,Lamentations,-586,-500,-543,586 BCE,500 BCE,543 BCE,medium,Usually tied to the destruction of Jerusalem and early exilic aftermath.
+26,Ezek,Ezekiel,-593,-500,-546,593 BCE,500 BCE,546 BCE,medium,Vision core dates to exile; later school additions likely present.
+27,Dan,Daniel,-167,-164,-165,167 BCE,164 BCE,165 BCE,high,Widely dated to the Maccabean period.
+28,Hos,Hosea,-750,-700,-725,750 BCE,700 BCE,725 BCE,medium,Core prophetic tradition in the late 8th century BCE.
+29,Joel,Joel,-400,-200,-300,400 BCE,200 BCE,300 BCE,low,Usually dated to late Persian or Hellenistic period.
+30,Amos,Amos,-760,-730,-745,760 BCE,730 BCE,745 BCE,medium,Core prophetic tradition in the first half of the 8th century BCE.
+31,Obad,Obadiah,-600,-550,-575,600 BCE,550 BCE,575 BCE,medium,Often linked to the aftermath of Jerusalem's fall.
+32,Jonah,Jonah,-500,-200,-350,500 BCE,200 BCE,350 BCE,low,Usually dated to Persian or Hellenistic period.
+33,Mic,Micah,-750,-700,-725,750 BCE,700 BCE,725 BCE,medium,Often placed in the late 8th century BCE.
+34,Nah,Nahum,-650,-612,-631,650 BCE,612 BCE,631 BCE,medium,Likely before Nineveh's destruction in 612 BCE.
+35,Hab,Habakkuk,-620,-600,-610,620 BCE,600 BCE,610 BCE,medium,Often placed shortly before the Battle of Carchemish.
+36,Zeph,Zephaniah,-640,-609,-624,640 BCE,609 BCE,624 BCE,medium,Usually linked to the reign of Josiah.
+37,Hag,Haggai,-520,-515,-517,520 BCE,515 BCE,517 BCE,high,Self-dated to early Persian period under Darius I.
+38,Zech,Zechariah,-520,-300,-410,520 BCE,300 BCE,410 BCE,medium,Early chapters Persian; later chapters often dated later.
+39,Mal,Malachi,-500,-430,-465,500 BCE,430 BCE,465 BCE,medium,Usually placed in the 5th century BCE.
+40,Matt,Matthew,80,90,85,80 CE,90 CE,85 CE,high,Commonly dated after Mark and after the destruction of the Temple.
+41,Mark,Mark,65,73,69,65 CE,73 CE,69 CE,high,Commonly dated around the First Jewish-Roman War period.
+42,Luke,Luke,80,90,85,80 CE,90 CE,85 CE,high,Usually dated a generation after Jesus tradition and after Mark.
+43,John,John,90,100,95,90 CE,100 CE,95 CE,high,Commonly placed at the end of the 1st century CE.
+44,Acts,Acts,80,90,85,80 CE,90 CE,85 CE,medium,"Often aligned with Luke's dating, with ongoing debate."
+45,Rom,Romans,57,58,58,57 CE,58 CE,58 CE,high,Undisputed Pauline letter.
+46,1Cor,1 Corinthians,53,57,55,53 CE,57 CE,55 CE,high,Undisputed Pauline letter.
+47,2Cor,2 Corinthians,55,58,57,55 CE,58 CE,57 CE,high,Undisputed Pauline letter.
+48,Gal,Galatians,48,55,52,48 CE,55 CE,52 CE,high,Undisputed Pauline letter; date depends on North/South Galatia model.
+49,Eph,Ephesians,80,90,85,80 CE,90 CE,85 CE,medium,Often considered deutero-Pauline and dated after Paul.
+50,Phil,Philippians,54,55,55,54 CE,55 CE,55 CE,high,"Undisputed Pauline letter, often linked to imprisonment."
+51,Col,Colossians,62,90,76,62 CE,90 CE,76 CE,medium,Range reflects disputed Pauline authorship.
+52,1Thess,1 Thessalonians,51,51,51,51 CE,51 CE,51 CE,high,Among the earliest undisputed Pauline letters.
+53,2Thess,2 Thessalonians,51,90,71,51 CE,90 CE,71 CE,low,Range reflects dispute between Pauline and later authorship.
+54,1Tim,1 Timothy,100,100,100,100 CE,100 CE,100 CE,medium,Pastoral epistle usually dated to early 2nd century CE.
+55,2Tim,2 Timothy,100,100,100,100 CE,100 CE,100 CE,medium,Pastoral epistle usually dated to early 2nd century CE.
+56,Titus,Titus,100,100,100,100 CE,100 CE,100 CE,medium,Pastoral epistle usually dated to early 2nd century CE.
+57,Phlm,Philemon,54,55,55,54 CE,55 CE,55 CE,high,Undisputed Pauline letter.
+58,Heb,Hebrews,80,90,85,80 CE,90 CE,85 CE,medium,Generally non-Pauline; often dated late 1st century CE.
+59,Jas,James,65,85,75,65 CE,85 CE,75 CE,medium,Broad late 1st century range in critical scholarship.
+60,1Pet,1 Peter,75,90,83,75 CE,90 CE,83 CE,medium,Often dated in the late 1st century CE.
+61,2Pet,2 Peter,110,110,110,110 CE,110 CE,110 CE,high,Commonly considered the latest New Testament writing.
+62,1John,1 John,90,110,100,90 CE,110 CE,100 CE,medium,Usually dated around the turn of the 2nd century CE.
+63,2John,2 John,90,110,100,90 CE,110 CE,100 CE,medium,Usually dated around the turn of the 2nd century CE.
+64,3John,3 John,90,110,100,90 CE,110 CE,100 CE,medium,Usually dated around the turn of the 2nd century CE.
+65,Jude,Jude,65,100,83,65 CE,100 CE,83 CE,low,Date uncertain; generally before 2 Peter.
+66,Rev,Revelation,95,95,95,95 CE,95 CE,95 CE,high,Commonly associated with Domitian's reign.

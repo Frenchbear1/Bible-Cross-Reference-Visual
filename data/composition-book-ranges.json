@@ -1,0 +1,2741 @@
+{
+  "source": {
+    "dataset": "composition-profile-synthesis",
+    "method": "Multiple book-level composition profiles mapped to all verses in each book. sortYear = midpoint(startYear, endYear)."
+  },
+  "generatedAt": "2026-03-04T14:02:27.536Z",
+  "defaultProfile": "critical",
+  "profileOrder": [
+    "critical",
+    "traditional",
+    "earliest-layer"
+  ],
+  "profiles": {
+    "critical": {
+      "id": "critical",
+      "label": "Critical",
+      "framework": "Final-form critical",
+      "description": "Final-form/redaction-era ranges used in modern critical scholarship.",
+      "source": {
+        "dataset": "critical-composition-synthesis",
+        "method": "Book-level final-form composition ranges mapped to all verses in each book. sortYear = midpoint(startYear, endYear).",
+        "sources": [
+          {
+            "name": "Wikipedia: Dating the Bible",
+            "url": "https://en.wikipedia.org/wiki/Dating_the_Bible"
+          },
+          {
+            "name": "SBL Bible Odyssey overview",
+            "url": "https://www.bibleodyssey.org/articles/how-was-the-bible-written-and-transmitted/"
+          },
+          {
+            "name": "TheTorah (Torah composition case study)",
+            "url": "https://www.thetorah.com/article/genesis-exodus-and-the-composition-of-the-torah"
+          },
+          {
+            "name": "Early Christian Writings (NT date references)",
+            "url": "https://www.earlychristianwritings.com/"
+          }
+        ]
+      },
+      "datedVerses": 31102,
+      "coverage": 1,
+      "books": [
+        {
+          "abbr": "Gen",
+          "book": "Genesis",
+          "canonicalBookIndex": 0,
+          "startYear": -550,
+          "endYear": -400,
+          "sortYear": -475,
+          "confidence": "medium",
+          "note": "Post-exilic synthesis of Priestly and non-Priestly material."
+        },
+        {
+          "abbr": "Exod",
+          "book": "Exodus",
+          "canonicalBookIndex": 1,
+          "startYear": -700,
+          "endYear": -400,
+          "sortYear": -550,
+          "confidence": "low",
+          "note": "Composite anthology spanning multiple periods; final form post-exilic."
+        },
+        {
+          "abbr": "Lev",
+          "book": "Leviticus",
+          "canonicalBookIndex": 2,
+          "startYear": -600,
+          "endYear": -400,
+          "sortYear": -500,
+          "confidence": "medium",
+          "note": "Predominantly Priestly, exilic or post-exilic."
+        },
+        {
+          "abbr": "Num",
+          "book": "Numbers",
+          "canonicalBookIndex": 3,
+          "startYear": -700,
+          "endYear": -400,
+          "sortYear": -550,
+          "confidence": "low",
+          "note": "Priestly redaction over older narrative strata."
+        },
+        {
+          "abbr": "Deut",
+          "book": "Deuteronomy",
+          "canonicalBookIndex": 4,
+          "startYear": -700,
+          "endYear": -400,
+          "sortYear": -550,
+          "confidence": "medium",
+          "note": "Late monarchic law core with exilic and post-exilic expansions."
+        },
+        {
+          "abbr": "Josh",
+          "book": "Joshua",
+          "canonicalBookIndex": 5,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with later editorial growth."
+        },
+        {
+          "abbr": "Judg",
+          "book": "Judges",
+          "canonicalBookIndex": 6,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with exilic shaping."
+        },
+        {
+          "abbr": "Ruth",
+          "book": "Ruth",
+          "canonicalBookIndex": 7,
+          "startYear": -500,
+          "endYear": -300,
+          "sortYear": -400,
+          "confidence": "medium",
+          "note": "Commonly dated to the Persian period."
+        },
+        {
+          "abbr": "1Sam",
+          "book": "1 Samuel",
+          "canonicalBookIndex": 8,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with exilic shaping."
+        },
+        {
+          "abbr": "2Sam",
+          "book": "2 Samuel",
+          "canonicalBookIndex": 9,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with exilic shaping."
+        },
+        {
+          "abbr": "1Kgs",
+          "book": "1 Kings",
+          "canonicalBookIndex": 10,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with exilic shaping."
+        },
+        {
+          "abbr": "2Kgs",
+          "book": "2 Kings",
+          "canonicalBookIndex": 11,
+          "startYear": -620,
+          "endYear": -500,
+          "sortYear": -560,
+          "confidence": "medium",
+          "note": "Part of the Deuteronomistic history with exilic shaping."
+        },
+        {
+          "abbr": "1Chr",
+          "book": "1 Chronicles",
+          "canonicalBookIndex": 12,
+          "startYear": -400,
+          "endYear": -250,
+          "sortYear": -325,
+          "confidence": "medium",
+          "note": "Chronicles is commonly placed in the Persian or early Hellenistic era."
+        },
+        {
+          "abbr": "2Chr",
+          "book": "2 Chronicles",
+          "canonicalBookIndex": 13,
+          "startYear": -400,
+          "endYear": -250,
+          "sortYear": -325,
+          "confidence": "medium",
+          "note": "Chronicles is commonly placed in the Persian or early Hellenistic era."
+        },
+        {
+          "abbr": "Ezra",
+          "book": "Ezra",
+          "canonicalBookIndex": 14,
+          "startYear": -350,
+          "endYear": -200,
+          "sortYear": -275,
+          "confidence": "medium",
+          "note": "Final form often placed in the late Persian to Ptolemaic period."
+        },
+        {
+          "abbr": "Neh",
+          "book": "Nehemiah",
+          "canonicalBookIndex": 15,
+          "startYear": -350,
+          "endYear": -200,
+          "sortYear": -275,
+          "confidence": "medium",
+          "note": "Final form often placed in the late Persian to Ptolemaic period."
+        },
+        {
+          "abbr": "Esth",
+          "book": "Esther",
+          "canonicalBookIndex": 16,
+          "startYear": -400,
+          "endYear": -250,
+          "sortYear": -325,
+          "confidence": "medium",
+          "note": "Often dated to the 4th or 3rd century BCE."
+        },
+        {
+          "abbr": "Job",
+          "book": "Job",
+          "canonicalBookIndex": 17,
+          "startYear": -600,
+          "endYear": -400,
+          "sortYear": -500,
+          "confidence": "medium",
+          "note": "Commonly dated between the 6th and 4th centuries BCE."
+        },
+        {
+          "abbr": "Ps",
+          "book": "Psalm",
+          "canonicalBookIndex": 18,
+          "startYear": -1000,
+          "endYear": -100,
+          "sortYear": -550,
+          "confidence": "low",
+          "note": "Layered anthology with long transmission and expansion history."
+        },
+        {
+          "abbr": "Prov",
+          "book": "Proverbs",
+          "canonicalBookIndex": 19,
+          "startYear": -900,
+          "endYear": -300,
+          "sortYear": -600,
+          "confidence": "low",
+          "note": "Collection of collections assembled over many centuries."
+        },
+        {
+          "abbr": "Eccl",
+          "book": "Ecclesiastes",
+          "canonicalBookIndex": 20,
+          "startYear": -450,
+          "endYear": -180,
+          "sortYear": -315,
+          "confidence": "high",
+          "note": "Usually dated between Persian and early Hellenistic periods."
+        },
+        {
+          "abbr": "Song",
+          "book": "Song of Solomon",
+          "canonicalBookIndex": 21,
+          "startYear": -500,
+          "endYear": -200,
+          "sortYear": -350,
+          "confidence": "low",
+          "note": "Often placed in the post-exilic period, with broad uncertainty."
+        },
+        {
+          "abbr": "Isa",
+          "book": "Isaiah",
+          "canonicalBookIndex": 22,
+          "startYear": -740,
+          "endYear": -500,
+          "sortYear": -620,
+          "confidence": "medium",
+          "note": "Composite work spanning Proto-, Deutero-, and Trito-Isaiah layers."
+        },
+        {
+          "abbr": "Jer",
+          "book": "Jeremiah",
+          "canonicalBookIndex": 23,
+          "startYear": -650,
+          "endYear": -200,
+          "sortYear": -425,
+          "confidence": "low",
+          "note": "Core prophetic material with major editorial development and textual recensions."
+        },
+        {
+          "abbr": "Lam",
+          "book": "Lamentations",
+          "canonicalBookIndex": 24,
+          "startYear": -586,
+          "endYear": -500,
+          "sortYear": -543,
+          "confidence": "medium",
+          "note": "Usually tied to the destruction of Jerusalem and early exilic aftermath."
+        },
+        {
+          "abbr": "Ezek",
+          "book": "Ezekiel",
+          "canonicalBookIndex": 25,
+          "startYear": -593,
+          "endYear": -500,
+          "sortYear": -546,
+          "confidence": "medium",
+          "note": "Vision core dates to exile; later school additions likely present."
+        },
+        {
+          "abbr": "Dan",
+          "book": "Daniel",
+          "canonicalBookIndex": 26,
+          "startYear": -167,
+          "endYear": -164,
+          "sortYear": -165,
+          "confidence": "high",
+          "note": "Widely dated to the Maccabean period."
+        },
+        {
+          "abbr": "Hos",
+          "book": "Hosea",
+          "canonicalBookIndex": 27,
+          "startYear": -750,
+          "endYear": -700,
+          "sortYear": -725,
+          "confidence": "medium",
+          "note": "Core prophetic tradition in the late 8th century BCE."
+        },
+        {
+          "abbr": "Joel",
+          "book": "Joel",
+          "canonicalBookIndex": 28,
+          "startYear": -400,
+          "endYear": -200,
+          "sortYear": -300,
+          "confidence": "low",
+          "note": "Usually dated to late Persian or Hellenistic period."
+        },
+        {
+          "abbr": "Amos",
+          "book": "Amos",
+          "canonicalBookIndex": 29,
+          "startYear": -760,
+          "endYear": -730,
+          "sortYear": -745,
+          "confidence": "medium",
+          "note": "Core prophetic tradition in the first half of the 8th century BCE."
+        },
+        {
+          "abbr": "Obad",
+          "book": "Obadiah",
+          "canonicalBookIndex": 30,
+          "startYear": -600,
+          "endYear": -550,
+          "sortYear": -575,
+          "confidence": "medium",
+          "note": "Often linked to the aftermath of Jerusalem's fall."
+        },
+        {
+          "abbr": "Jonah",
+          "book": "Jonah",
+          "canonicalBookIndex": 31,
+          "startYear": -500,
+          "endYear": -200,
+          "sortYear": -350,
+          "confidence": "low",
+          "note": "Usually dated to Persian or Hellenistic period."
+        },
+        {
+          "abbr": "Mic",
+          "book": "Micah",
+          "canonicalBookIndex": 32,
+          "startYear": -750,
+          "endYear": -700,
+          "sortYear": -725,
+          "confidence": "medium",
+          "note": "Often placed in the late 8th century BCE."
+        },
+        {
+          "abbr": "Nah",
+          "book": "Nahum",
+          "canonicalBookIndex": 33,
+          "startYear": -650,
+          "endYear": -612,
+          "sortYear": -631,
+          "confidence": "medium",
+          "note": "Likely before Nineveh's destruction in 612 BCE."
+        },
+        {
+          "abbr": "Hab",
+          "book": "Habakkuk",
+          "canonicalBookIndex": 34,
+          "startYear": -620,
+          "endYear": -600,
+          "sortYear": -610,
+          "confidence": "medium",
+          "note": "Often placed shortly before the Battle of Carchemish."
+        },
+        {
+          "abbr": "Zeph",
+          "book": "Zephaniah",
+          "canonicalBookIndex": 35,
+          "startYear": -640,
+          "endYear": -609,
+          "sortYear": -624,
+          "confidence": "medium",
+          "note": "Usually linked to the reign of Josiah."
+        },
+        {
+          "abbr": "Hag",
+          "book": "Haggai",
+          "canonicalBookIndex": 36,
+          "startYear": -520,
+          "endYear": -515,
+          "sortYear": -517,
+          "confidence": "high",
+          "note": "Self-dated to early Persian period under Darius I."
+        },
+        {
+          "abbr": "Zech",
+          "book": "Zechariah",
+          "canonicalBookIndex": 37,
+          "startYear": -520,
+          "endYear": -300,
+          "sortYear": -410,
+          "confidence": "medium",
+          "note": "Early chapters Persian; later chapters often dated later."
+        },
+        {
+          "abbr": "Mal",
+          "book": "Malachi",
+          "canonicalBookIndex": 38,
+          "startYear": -500,
+          "endYear": -430,
+          "sortYear": -465,
+          "confidence": "medium",
+          "note": "Usually placed in the 5th century BCE."
+        },
+        {
+          "abbr": "Matt",
+          "book": "Matthew",
+          "canonicalBookIndex": 39,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "high",
+          "note": "Commonly dated after Mark and after the destruction of the Temple."
+        },
+        {
+          "abbr": "Mark",
+          "book": "Mark",
+          "canonicalBookIndex": 40,
+          "startYear": 65,
+          "endYear": 73,
+          "sortYear": 69,
+          "confidence": "high",
+          "note": "Commonly dated around the First Jewish-Roman War period."
+        },
+        {
+          "abbr": "Luke",
+          "book": "Luke",
+          "canonicalBookIndex": 41,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "high",
+          "note": "Usually dated a generation after Jesus tradition and after Mark."
+        },
+        {
+          "abbr": "John",
+          "book": "John",
+          "canonicalBookIndex": 42,
+          "startYear": 90,
+          "endYear": 100,
+          "sortYear": 95,
+          "confidence": "high",
+          "note": "Commonly placed at the end of the 1st century CE."
+        },
+        {
+          "abbr": "Acts",
+          "book": "Acts",
+          "canonicalBookIndex": 43,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "medium",
+          "note": "Often aligned with Luke's dating, with ongoing debate."
+        },
+        {
+          "abbr": "Rom",
+          "book": "Romans",
+          "canonicalBookIndex": 44,
+          "startYear": 57,
+          "endYear": 58,
+          "sortYear": 58,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter."
+        },
+        {
+          "abbr": "1Cor",
+          "book": "1 Corinthians",
+          "canonicalBookIndex": 45,
+          "startYear": 53,
+          "endYear": 57,
+          "sortYear": 55,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter."
+        },
+        {
+          "abbr": "2Cor",
+          "book": "2 Corinthians",
+          "canonicalBookIndex": 46,
+          "startYear": 55,
+          "endYear": 58,
+          "sortYear": 57,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter."
+        },
+        {
+          "abbr": "Gal",
+          "book": "Galatians",
+          "canonicalBookIndex": 47,
+          "startYear": 48,
+          "endYear": 55,
+          "sortYear": 52,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter; date depends on North/South Galatia model."
+        },
+        {
+          "abbr": "Eph",
+          "book": "Ephesians",
+          "canonicalBookIndex": 48,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "medium",
+          "note": "Often considered deutero-Pauline and dated after Paul."
+        },
+        {
+          "abbr": "Phil",
+          "book": "Philippians",
+          "canonicalBookIndex": 49,
+          "startYear": 54,
+          "endYear": 55,
+          "sortYear": 55,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter, often linked to imprisonment."
+        },
+        {
+          "abbr": "Col",
+          "book": "Colossians",
+          "canonicalBookIndex": 50,
+          "startYear": 62,
+          "endYear": 90,
+          "sortYear": 76,
+          "confidence": "medium",
+          "note": "Range reflects disputed Pauline authorship."
+        },
+        {
+          "abbr": "1Thess",
+          "book": "1 Thessalonians",
+          "canonicalBookIndex": 51,
+          "startYear": 51,
+          "endYear": 51,
+          "sortYear": 51,
+          "confidence": "high",
+          "note": "Among the earliest undisputed Pauline letters."
+        },
+        {
+          "abbr": "2Thess",
+          "book": "2 Thessalonians",
+          "canonicalBookIndex": 52,
+          "startYear": 51,
+          "endYear": 90,
+          "sortYear": 71,
+          "confidence": "low",
+          "note": "Range reflects dispute between Pauline and later authorship."
+        },
+        {
+          "abbr": "1Tim",
+          "book": "1 Timothy",
+          "canonicalBookIndex": 53,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Pastoral epistle usually dated to early 2nd century CE."
+        },
+        {
+          "abbr": "2Tim",
+          "book": "2 Timothy",
+          "canonicalBookIndex": 54,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Pastoral epistle usually dated to early 2nd century CE."
+        },
+        {
+          "abbr": "Titus",
+          "book": "Titus",
+          "canonicalBookIndex": 55,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Pastoral epistle usually dated to early 2nd century CE."
+        },
+        {
+          "abbr": "Phlm",
+          "book": "Philemon",
+          "canonicalBookIndex": 56,
+          "startYear": 54,
+          "endYear": 55,
+          "sortYear": 55,
+          "confidence": "high",
+          "note": "Undisputed Pauline letter."
+        },
+        {
+          "abbr": "Heb",
+          "book": "Hebrews",
+          "canonicalBookIndex": 57,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "medium",
+          "note": "Generally non-Pauline; often dated late 1st century CE."
+        },
+        {
+          "abbr": "Jas",
+          "book": "James",
+          "canonicalBookIndex": 58,
+          "startYear": 65,
+          "endYear": 85,
+          "sortYear": 75,
+          "confidence": "medium",
+          "note": "Broad late 1st century range in critical scholarship."
+        },
+        {
+          "abbr": "1Pet",
+          "book": "1 Peter",
+          "canonicalBookIndex": 59,
+          "startYear": 75,
+          "endYear": 90,
+          "sortYear": 83,
+          "confidence": "medium",
+          "note": "Often dated in the late 1st century CE."
+        },
+        {
+          "abbr": "2Pet",
+          "book": "2 Peter",
+          "canonicalBookIndex": 60,
+          "startYear": 110,
+          "endYear": 110,
+          "sortYear": 110,
+          "confidence": "high",
+          "note": "Commonly considered the latest New Testament writing."
+        },
+        {
+          "abbr": "1John",
+          "book": "1 John",
+          "canonicalBookIndex": 61,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Usually dated around the turn of the 2nd century CE."
+        },
+        {
+          "abbr": "2John",
+          "book": "2 John",
+          "canonicalBookIndex": 62,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Usually dated around the turn of the 2nd century CE."
+        },
+        {
+          "abbr": "3John",
+          "book": "3 John",
+          "canonicalBookIndex": 63,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "medium",
+          "note": "Usually dated around the turn of the 2nd century CE."
+        },
+        {
+          "abbr": "Jude",
+          "book": "Jude",
+          "canonicalBookIndex": 64,
+          "startYear": 65,
+          "endYear": 100,
+          "sortYear": 83,
+          "confidence": "low",
+          "note": "Date uncertain; generally before 2 Peter."
+        },
+        {
+          "abbr": "Rev",
+          "book": "Revelation",
+          "canonicalBookIndex": 65,
+          "startYear": 95,
+          "endYear": 95,
+          "sortYear": 95,
+          "confidence": "high",
+          "note": "Commonly associated with Domitian's reign."
+        }
+      ]
+    },
+    "traditional": {
+      "id": "traditional",
+      "label": "Traditional",
+      "framework": "Traditional/conservative",
+      "description": "Traditional authorship-oriented ranges used for conservative timeline views.",
+      "source": {
+        "dataset": "traditional-authorship-synthesis",
+        "method": "Traditional/conservative book-level authorship windows mapped to all verses in each book. sortYear = midpoint(startYear, endYear).",
+        "sources": [
+          {
+            "name": "BibleGateway",
+            "url": "https://www.biblegateway.com/"
+          },
+          {
+            "name": "Wikipedia: Dating the Bible",
+            "url": "https://en.wikipedia.org/wiki/Dating_the_Bible"
+          }
+        ]
+      },
+      "datedVerses": 31102,
+      "coverage": 1,
+      "books": [
+        {
+          "abbr": "Gen",
+          "book": "Genesis",
+          "canonicalBookIndex": 0,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional Mosaic authorship window."
+        },
+        {
+          "abbr": "Exod",
+          "book": "Exodus",
+          "canonicalBookIndex": 1,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional Mosaic authorship window."
+        },
+        {
+          "abbr": "Lev",
+          "book": "Leviticus",
+          "canonicalBookIndex": 2,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional Mosaic authorship window."
+        },
+        {
+          "abbr": "Num",
+          "book": "Numbers",
+          "canonicalBookIndex": 3,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional Mosaic authorship window."
+        },
+        {
+          "abbr": "Deut",
+          "book": "Deuteronomy",
+          "canonicalBookIndex": 4,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional Mosaic authorship window."
+        },
+        {
+          "abbr": "Josh",
+          "book": "Joshua",
+          "canonicalBookIndex": 5,
+          "startYear": -1400,
+          "endYear": -1300,
+          "sortYear": -1350,
+          "confidence": "low",
+          "note": "Traditional attribution to Joshua with later updates."
+        },
+        {
+          "abbr": "Judg",
+          "book": "Judges",
+          "canonicalBookIndex": 6,
+          "startYear": -1100,
+          "endYear": -1000,
+          "sortYear": -1050,
+          "confidence": "low",
+          "note": "Traditional attribution to Samuel-era compilation."
+        },
+        {
+          "abbr": "Ruth",
+          "book": "Ruth",
+          "canonicalBookIndex": 7,
+          "startYear": -1050,
+          "endYear": -1000,
+          "sortYear": -1025,
+          "confidence": "low",
+          "note": "Traditionally linked to early monarchy context."
+        },
+        {
+          "abbr": "1Sam",
+          "book": "1 Samuel",
+          "canonicalBookIndex": 8,
+          "startYear": -1000,
+          "endYear": -930,
+          "sortYear": -965,
+          "confidence": "low",
+          "note": "Traditional attribution to Samuel/Gad/Nathan tradition."
+        },
+        {
+          "abbr": "2Sam",
+          "book": "2 Samuel",
+          "canonicalBookIndex": 9,
+          "startYear": -980,
+          "endYear": -920,
+          "sortYear": -950,
+          "confidence": "low",
+          "note": "Traditional attribution to Samuel/Gad/Nathan tradition."
+        },
+        {
+          "abbr": "1Kgs",
+          "book": "1 Kings",
+          "canonicalBookIndex": 10,
+          "startYear": -970,
+          "endYear": -560,
+          "sortYear": -765,
+          "confidence": "low",
+          "note": "Traditionally linked to prophetic historiography."
+        },
+        {
+          "abbr": "2Kgs",
+          "book": "2 Kings",
+          "canonicalBookIndex": 11,
+          "startYear": -970,
+          "endYear": -560,
+          "sortYear": -765,
+          "confidence": "low",
+          "note": "Traditionally linked to prophetic historiography."
+        },
+        {
+          "abbr": "1Chr",
+          "book": "1 Chronicles",
+          "canonicalBookIndex": 12,
+          "startYear": -500,
+          "endYear": -430,
+          "sortYear": -465,
+          "confidence": "medium",
+          "note": "Traditionally attributed to Ezra."
+        },
+        {
+          "abbr": "2Chr",
+          "book": "2 Chronicles",
+          "canonicalBookIndex": 13,
+          "startYear": -500,
+          "endYear": -430,
+          "sortYear": -465,
+          "confidence": "medium",
+          "note": "Traditionally attributed to Ezra."
+        },
+        {
+          "abbr": "Ezra",
+          "book": "Ezra",
+          "canonicalBookIndex": 14,
+          "startYear": -460,
+          "endYear": -430,
+          "sortYear": -445,
+          "confidence": "medium",
+          "note": "Traditionally linked to Ezra's own period."
+        },
+        {
+          "abbr": "Neh",
+          "book": "Nehemiah",
+          "canonicalBookIndex": 15,
+          "startYear": -445,
+          "endYear": -430,
+          "sortYear": -437,
+          "confidence": "medium",
+          "note": "Traditionally linked to Nehemiah's memoirs."
+        },
+        {
+          "abbr": "Esth",
+          "book": "Esther",
+          "canonicalBookIndex": 16,
+          "startYear": -470,
+          "endYear": -460,
+          "sortYear": -465,
+          "confidence": "low",
+          "note": "Traditional Persian-era placement shortly after events."
+        },
+        {
+          "abbr": "Job",
+          "book": "Job",
+          "canonicalBookIndex": 17,
+          "startYear": -1500,
+          "endYear": -1400,
+          "sortYear": -1450,
+          "confidence": "low",
+          "note": "Traditional patriarchal-era setting/authorship view."
+        },
+        {
+          "abbr": "Ps",
+          "book": "Psalm",
+          "canonicalBookIndex": 18,
+          "startYear": -1000,
+          "endYear": -400,
+          "sortYear": -700,
+          "confidence": "low",
+          "note": "Traditional Davidic-centered anthology with later additions."
+        },
+        {
+          "abbr": "Prov",
+          "book": "Proverbs",
+          "canonicalBookIndex": 19,
+          "startYear": -950,
+          "endYear": -700,
+          "sortYear": -825,
+          "confidence": "low",
+          "note": "Traditional Solomonic core with later editorial collection."
+        },
+        {
+          "abbr": "Eccl",
+          "book": "Ecclesiastes",
+          "canonicalBookIndex": 20,
+          "startYear": -950,
+          "endYear": -930,
+          "sortYear": -940,
+          "confidence": "low",
+          "note": "Traditional Solomonic attribution."
+        },
+        {
+          "abbr": "Song",
+          "book": "Song of Solomon",
+          "canonicalBookIndex": 21,
+          "startYear": -950,
+          "endYear": -930,
+          "sortYear": -940,
+          "confidence": "low",
+          "note": "Traditional Solomonic attribution."
+        },
+        {
+          "abbr": "Isa",
+          "book": "Isaiah",
+          "canonicalBookIndex": 22,
+          "startYear": -740,
+          "endYear": -680,
+          "sortYear": -710,
+          "confidence": "medium",
+          "note": "Traditional attribution centered on 8th-century Isaiah ministry."
+        },
+        {
+          "abbr": "Jer",
+          "book": "Jeremiah",
+          "canonicalBookIndex": 23,
+          "startYear": -627,
+          "endYear": -570,
+          "sortYear": -598,
+          "confidence": "medium",
+          "note": "Traditional attribution centered on Jeremiah's ministry years."
+        },
+        {
+          "abbr": "Lam",
+          "book": "Lamentations",
+          "canonicalBookIndex": 24,
+          "startYear": -586,
+          "endYear": -580,
+          "sortYear": -583,
+          "confidence": "medium",
+          "note": "Traditional attribution to Jeremiah after Jerusalem's fall."
+        },
+        {
+          "abbr": "Ezek",
+          "book": "Ezekiel",
+          "canonicalBookIndex": 25,
+          "startYear": -593,
+          "endYear": -570,
+          "sortYear": -581,
+          "confidence": "medium",
+          "note": "Traditional attribution to Ezekiel in exile."
+        },
+        {
+          "abbr": "Dan",
+          "book": "Daniel",
+          "canonicalBookIndex": 26,
+          "startYear": -605,
+          "endYear": -530,
+          "sortYear": -567,
+          "confidence": "low",
+          "note": "Traditional 6th-century BCE Danielic setting."
+        },
+        {
+          "abbr": "Hos",
+          "book": "Hosea",
+          "canonicalBookIndex": 27,
+          "startYear": -755,
+          "endYear": -715,
+          "sortYear": -735,
+          "confidence": "medium",
+          "note": "Traditional dating to Hosea's prophetic ministry."
+        },
+        {
+          "abbr": "Joel",
+          "book": "Joel",
+          "canonicalBookIndex": 28,
+          "startYear": -830,
+          "endYear": -750,
+          "sortYear": -790,
+          "confidence": "low",
+          "note": "Traditional early-monarchy dating option."
+        },
+        {
+          "abbr": "Amos",
+          "book": "Amos",
+          "canonicalBookIndex": 29,
+          "startYear": -760,
+          "endYear": -750,
+          "sortYear": -755,
+          "confidence": "medium",
+          "note": "Traditional dating to Amos's prophetic ministry."
+        },
+        {
+          "abbr": "Obad",
+          "book": "Obadiah",
+          "canonicalBookIndex": 30,
+          "startYear": -845,
+          "endYear": -840,
+          "sortYear": -842,
+          "confidence": "low",
+          "note": "Traditional early date associated with Edomite conflict."
+        },
+        {
+          "abbr": "Jonah",
+          "book": "Jonah",
+          "canonicalBookIndex": 31,
+          "startYear": -780,
+          "endYear": -760,
+          "sortYear": -770,
+          "confidence": "low",
+          "note": "Traditional dating to 8th-century prophetic context."
+        },
+        {
+          "abbr": "Mic",
+          "book": "Micah",
+          "canonicalBookIndex": 32,
+          "startYear": -740,
+          "endYear": -700,
+          "sortYear": -720,
+          "confidence": "medium",
+          "note": "Traditional dating to Micah's prophetic ministry."
+        },
+        {
+          "abbr": "Nah",
+          "book": "Nahum",
+          "canonicalBookIndex": 33,
+          "startYear": -663,
+          "endYear": -612,
+          "sortYear": -637,
+          "confidence": "medium",
+          "note": "Traditional dating before Nineveh's fall."
+        },
+        {
+          "abbr": "Hab",
+          "book": "Habakkuk",
+          "canonicalBookIndex": 34,
+          "startYear": -620,
+          "endYear": -605,
+          "sortYear": -612,
+          "confidence": "medium",
+          "note": "Traditional late pre-exilic dating."
+        },
+        {
+          "abbr": "Zeph",
+          "book": "Zephaniah",
+          "canonicalBookIndex": 35,
+          "startYear": -640,
+          "endYear": -620,
+          "sortYear": -630,
+          "confidence": "medium",
+          "note": "Traditional Josianic-period dating."
+        },
+        {
+          "abbr": "Hag",
+          "book": "Haggai",
+          "canonicalBookIndex": 36,
+          "startYear": -520,
+          "endYear": -515,
+          "sortYear": -517,
+          "confidence": "high",
+          "note": "Self-dated Persian-period prophecy."
+        },
+        {
+          "abbr": "Zech",
+          "book": "Zechariah",
+          "canonicalBookIndex": 37,
+          "startYear": -520,
+          "endYear": -480,
+          "sortYear": -500,
+          "confidence": "medium",
+          "note": "Traditional Persian-period dating."
+        },
+        {
+          "abbr": "Mal",
+          "book": "Malachi",
+          "canonicalBookIndex": 38,
+          "startYear": -460,
+          "endYear": -430,
+          "sortYear": -445,
+          "confidence": "medium",
+          "note": "Traditional post-exilic prophetic dating."
+        },
+        {
+          "abbr": "Matt",
+          "book": "Matthew",
+          "canonicalBookIndex": 39,
+          "startYear": 50,
+          "endYear": 70,
+          "sortYear": 60,
+          "confidence": "low",
+          "note": "Traditional early Gospel dating."
+        },
+        {
+          "abbr": "Mark",
+          "book": "Mark",
+          "canonicalBookIndex": 40,
+          "startYear": 55,
+          "endYear": 68,
+          "sortYear": 62,
+          "confidence": "medium",
+          "note": "Traditional pre-70 CE Gospel dating."
+        },
+        {
+          "abbr": "Luke",
+          "book": "Luke",
+          "canonicalBookIndex": 41,
+          "startYear": 58,
+          "endYear": 63,
+          "sortYear": 61,
+          "confidence": "low",
+          "note": "Traditional Lukan dating before Acts-era close."
+        },
+        {
+          "abbr": "John",
+          "book": "John",
+          "canonicalBookIndex": 42,
+          "startYear": 80,
+          "endYear": 95,
+          "sortYear": 88,
+          "confidence": "medium",
+          "note": "Traditional late-1st-century Johannine dating."
+        },
+        {
+          "abbr": "Acts",
+          "book": "Acts",
+          "canonicalBookIndex": 43,
+          "startYear": 62,
+          "endYear": 64,
+          "sortYear": 63,
+          "confidence": "low",
+          "note": "Traditional dating before Paul's death."
+        },
+        {
+          "abbr": "Rom",
+          "book": "Romans",
+          "canonicalBookIndex": 44,
+          "startYear": 57,
+          "endYear": 58,
+          "sortYear": 58,
+          "confidence": "high",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "1Cor",
+          "book": "1 Corinthians",
+          "canonicalBookIndex": 45,
+          "startYear": 53,
+          "endYear": 55,
+          "sortYear": 54,
+          "confidence": "high",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "2Cor",
+          "book": "2 Corinthians",
+          "canonicalBookIndex": 46,
+          "startYear": 55,
+          "endYear": 57,
+          "sortYear": 56,
+          "confidence": "high",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "Gal",
+          "book": "Galatians",
+          "canonicalBookIndex": 47,
+          "startYear": 48,
+          "endYear": 50,
+          "sortYear": 49,
+          "confidence": "medium",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "Eph",
+          "book": "Ephesians",
+          "canonicalBookIndex": 48,
+          "startYear": 60,
+          "endYear": 62,
+          "sortYear": 61,
+          "confidence": "low",
+          "note": "Traditional Pauline prison-epistle dating."
+        },
+        {
+          "abbr": "Phil",
+          "book": "Philippians",
+          "canonicalBookIndex": 49,
+          "startYear": 60,
+          "endYear": 62,
+          "sortYear": 61,
+          "confidence": "high",
+          "note": "Traditional Pauline prison-epistle dating."
+        },
+        {
+          "abbr": "Col",
+          "book": "Colossians",
+          "canonicalBookIndex": 50,
+          "startYear": 60,
+          "endYear": 62,
+          "sortYear": 61,
+          "confidence": "low",
+          "note": "Traditional Pauline prison-epistle dating."
+        },
+        {
+          "abbr": "1Thess",
+          "book": "1 Thessalonians",
+          "canonicalBookIndex": 51,
+          "startYear": 50,
+          "endYear": 51,
+          "sortYear": 51,
+          "confidence": "high",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "2Thess",
+          "book": "2 Thessalonians",
+          "canonicalBookIndex": 52,
+          "startYear": 51,
+          "endYear": 52,
+          "sortYear": 52,
+          "confidence": "low",
+          "note": "Traditional Pauline dating."
+        },
+        {
+          "abbr": "1Tim",
+          "book": "1 Timothy",
+          "canonicalBookIndex": 53,
+          "startYear": 63,
+          "endYear": 65,
+          "sortYear": 64,
+          "confidence": "low",
+          "note": "Traditional Pauline pastoral dating."
+        },
+        {
+          "abbr": "2Tim",
+          "book": "2 Timothy",
+          "canonicalBookIndex": 54,
+          "startYear": 66,
+          "endYear": 67,
+          "sortYear": 67,
+          "confidence": "low",
+          "note": "Traditional Pauline pastoral dating."
+        },
+        {
+          "abbr": "Titus",
+          "book": "Titus",
+          "canonicalBookIndex": 55,
+          "startYear": 63,
+          "endYear": 65,
+          "sortYear": 64,
+          "confidence": "low",
+          "note": "Traditional Pauline pastoral dating."
+        },
+        {
+          "abbr": "Phlm",
+          "book": "Philemon",
+          "canonicalBookIndex": 56,
+          "startYear": 60,
+          "endYear": 62,
+          "sortYear": 61,
+          "confidence": "high",
+          "note": "Traditional Pauline prison-epistle dating."
+        },
+        {
+          "abbr": "Heb",
+          "book": "Hebrews",
+          "canonicalBookIndex": 57,
+          "startYear": 64,
+          "endYear": 70,
+          "sortYear": 67,
+          "confidence": "low",
+          "note": "Traditional pre-70 CE dating."
+        },
+        {
+          "abbr": "Jas",
+          "book": "James",
+          "canonicalBookIndex": 58,
+          "startYear": 45,
+          "endYear": 62,
+          "sortYear": 54,
+          "confidence": "low",
+          "note": "Traditional early church dating."
+        },
+        {
+          "abbr": "1Pet",
+          "book": "1 Peter",
+          "canonicalBookIndex": 59,
+          "startYear": 62,
+          "endYear": 64,
+          "sortYear": 63,
+          "confidence": "low",
+          "note": "Traditional Petrine dating."
+        },
+        {
+          "abbr": "2Pet",
+          "book": "2 Peter",
+          "canonicalBookIndex": 60,
+          "startYear": 64,
+          "endYear": 67,
+          "sortYear": 66,
+          "confidence": "low",
+          "note": "Traditional Petrine dating."
+        },
+        {
+          "abbr": "1John",
+          "book": "1 John",
+          "canonicalBookIndex": 61,
+          "startYear": 85,
+          "endYear": 95,
+          "sortYear": 90,
+          "confidence": "medium",
+          "note": "Traditional late-1st-century Johannine dating."
+        },
+        {
+          "abbr": "2John",
+          "book": "2 John",
+          "canonicalBookIndex": 62,
+          "startYear": 85,
+          "endYear": 95,
+          "sortYear": 90,
+          "confidence": "medium",
+          "note": "Traditional late-1st-century Johannine dating."
+        },
+        {
+          "abbr": "3John",
+          "book": "3 John",
+          "canonicalBookIndex": 63,
+          "startYear": 85,
+          "endYear": 95,
+          "sortYear": 90,
+          "confidence": "medium",
+          "note": "Traditional late-1st-century Johannine dating."
+        },
+        {
+          "abbr": "Jude",
+          "book": "Jude",
+          "canonicalBookIndex": 64,
+          "startYear": 65,
+          "endYear": 80,
+          "sortYear": 73,
+          "confidence": "low",
+          "note": "Traditional late-1st-century dating."
+        },
+        {
+          "abbr": "Rev",
+          "book": "Revelation",
+          "canonicalBookIndex": 65,
+          "startYear": 90,
+          "endYear": 96,
+          "sortYear": 93,
+          "confidence": "medium",
+          "note": "Traditional Domitian-era dating."
+        }
+      ]
+    },
+    "earliest-layer": {
+      "id": "earliest-layer",
+      "label": "Earliest Layer",
+      "framework": "Earliest recoverable strata",
+      "description": "Earliest plausible literary layer ranges (coarse, profile-level estimates).",
+      "source": {
+        "dataset": "earliest-layer-synthesis",
+        "method": "Earliest-layer windows mapped to all verses in each book for comparative ordering only. sortYear = midpoint(startYear, endYear).",
+        "sources": [
+          {
+            "name": "Wikipedia: Dating the Bible",
+            "url": "https://en.wikipedia.org/wiki/Dating_the_Bible"
+          },
+          {
+            "name": "SBL Bible Odyssey overview",
+            "url": "https://www.bibleodyssey.org/articles/how-was-the-bible-written-and-transmitted/"
+          },
+          {
+            "name": "TheTorah (Torah composition case study)",
+            "url": "https://www.thetorah.com/article/genesis-exodus-and-the-composition-of-the-torah"
+          }
+        ]
+      },
+      "datedVerses": 31102,
+      "coverage": 1,
+      "books": [
+        {
+          "abbr": "Gen",
+          "book": "Genesis",
+          "canonicalBookIndex": 0,
+          "startYear": -1500,
+          "endYear": -1200,
+          "sortYear": -1350,
+          "confidence": "low",
+          "note": "Earliest pre-monarchic narrative and poetic traditions (highly conjectural)."
+        },
+        {
+          "abbr": "Exod",
+          "book": "Exodus",
+          "canonicalBookIndex": 1,
+          "startYear": -1500,
+          "endYear": -1200,
+          "sortYear": -1350,
+          "confidence": "low",
+          "note": "Earliest exodus traditions before later compositional shaping."
+        },
+        {
+          "abbr": "Lev",
+          "book": "Leviticus",
+          "canonicalBookIndex": 2,
+          "startYear": -1200,
+          "endYear": -900,
+          "sortYear": -1050,
+          "confidence": "low",
+          "note": "Earliest priestly legal traditions before final compilation."
+        },
+        {
+          "abbr": "Num",
+          "book": "Numbers",
+          "canonicalBookIndex": 3,
+          "startYear": -1400,
+          "endYear": -1000,
+          "sortYear": -1200,
+          "confidence": "low",
+          "note": "Earliest wilderness traditions before later Priestly redaction."
+        },
+        {
+          "abbr": "Deut",
+          "book": "Deuteronomy",
+          "canonicalBookIndex": 4,
+          "startYear": -750,
+          "endYear": -620,
+          "sortYear": -685,
+          "confidence": "medium",
+          "note": "Earliest Deuteronomic law core before exilic expansions."
+        },
+        {
+          "abbr": "Josh",
+          "book": "Joshua",
+          "canonicalBookIndex": 5,
+          "startYear": -1200,
+          "endYear": -900,
+          "sortYear": -1050,
+          "confidence": "low",
+          "note": "Earliest conquest/settlement traditions before Deuteronomistic editing."
+        },
+        {
+          "abbr": "Judg",
+          "book": "Judges",
+          "canonicalBookIndex": 6,
+          "startYear": -1200,
+          "endYear": -900,
+          "sortYear": -1050,
+          "confidence": "low",
+          "note": "Earliest tribal traditions before Deuteronomistic editing."
+        },
+        {
+          "abbr": "Ruth",
+          "book": "Ruth",
+          "canonicalBookIndex": 7,
+          "startYear": -500,
+          "endYear": -430,
+          "sortYear": -465,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "1Sam",
+          "book": "1 Samuel",
+          "canonicalBookIndex": 8,
+          "startYear": -1050,
+          "endYear": -900,
+          "sortYear": -975,
+          "confidence": "low",
+          "note": "Earliest monarchic court and prophetic traditions."
+        },
+        {
+          "abbr": "2Sam",
+          "book": "2 Samuel",
+          "canonicalBookIndex": 9,
+          "startYear": -1000,
+          "endYear": -850,
+          "sortYear": -925,
+          "confidence": "low",
+          "note": "Earliest monarchic court traditions."
+        },
+        {
+          "abbr": "1Kgs",
+          "book": "1 Kings",
+          "canonicalBookIndex": 10,
+          "startYear": -970,
+          "endYear": -800,
+          "sortYear": -885,
+          "confidence": "low",
+          "note": "Earliest royal annal traditions before final Deuteronomistic shaping."
+        },
+        {
+          "abbr": "2Kgs",
+          "book": "2 Kings",
+          "canonicalBookIndex": 11,
+          "startYear": -900,
+          "endYear": -700,
+          "sortYear": -800,
+          "confidence": "low",
+          "note": "Earliest royal annal traditions before final Deuteronomistic shaping."
+        },
+        {
+          "abbr": "1Chr",
+          "book": "1 Chronicles",
+          "canonicalBookIndex": 12,
+          "startYear": -400,
+          "endYear": -347,
+          "sortYear": -373,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2Chr",
+          "book": "2 Chronicles",
+          "canonicalBookIndex": 13,
+          "startYear": -400,
+          "endYear": -347,
+          "sortYear": -373,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Ezra",
+          "book": "Ezra",
+          "canonicalBookIndex": 14,
+          "startYear": -350,
+          "endYear": -297,
+          "sortYear": -323,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Neh",
+          "book": "Nehemiah",
+          "canonicalBookIndex": 15,
+          "startYear": -350,
+          "endYear": -297,
+          "sortYear": -323,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Esth",
+          "book": "Esther",
+          "canonicalBookIndex": 16,
+          "startYear": -400,
+          "endYear": -347,
+          "sortYear": -373,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Job",
+          "book": "Job",
+          "canonicalBookIndex": 17,
+          "startYear": -1800,
+          "endYear": -1200,
+          "sortYear": -1500,
+          "confidence": "low",
+          "note": "Possible early wisdom/poetic core traditions (highly uncertain)."
+        },
+        {
+          "abbr": "Ps",
+          "book": "Psalm",
+          "canonicalBookIndex": 18,
+          "startYear": -1200,
+          "endYear": -500,
+          "sortYear": -850,
+          "confidence": "low",
+          "note": "Earliest poetic strata (including archaic hymnic material)."
+        },
+        {
+          "abbr": "Prov",
+          "book": "Proverbs",
+          "canonicalBookIndex": 19,
+          "startYear": -1000,
+          "endYear": -600,
+          "sortYear": -800,
+          "confidence": "low",
+          "note": "Earliest wisdom collections before later anthology growth."
+        },
+        {
+          "abbr": "Eccl",
+          "book": "Ecclesiastes",
+          "canonicalBookIndex": 20,
+          "startYear": -450,
+          "endYear": -355,
+          "sortYear": -402,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Song",
+          "book": "Song of Solomon",
+          "canonicalBookIndex": 21,
+          "startYear": -500,
+          "endYear": -395,
+          "sortYear": -447,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Isa",
+          "book": "Isaiah",
+          "canonicalBookIndex": 22,
+          "startYear": -740,
+          "endYear": -700,
+          "sortYear": -720,
+          "confidence": "medium",
+          "note": "Earliest Proto-Isaiah layer."
+        },
+        {
+          "abbr": "Jer",
+          "book": "Jeremiah",
+          "canonicalBookIndex": 23,
+          "startYear": -627,
+          "endYear": -580,
+          "sortYear": -603,
+          "confidence": "medium",
+          "note": "Earliest Jeremianic prophetic core."
+        },
+        {
+          "abbr": "Lam",
+          "book": "Lamentations",
+          "canonicalBookIndex": 24,
+          "startYear": -586,
+          "endYear": -556,
+          "sortYear": -571,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Ezek",
+          "book": "Ezekiel",
+          "canonicalBookIndex": 25,
+          "startYear": -593,
+          "endYear": -571,
+          "sortYear": -582,
+          "confidence": "medium",
+          "note": "Earliest Ezekiel visionary core."
+        },
+        {
+          "abbr": "Dan",
+          "book": "Daniel",
+          "canonicalBookIndex": 26,
+          "startYear": -550,
+          "endYear": -165,
+          "sortYear": -357,
+          "confidence": "low",
+          "note": "Earliest court-tale layer may predate apocalyptic final form."
+        },
+        {
+          "abbr": "Hos",
+          "book": "Hosea",
+          "canonicalBookIndex": 27,
+          "startYear": -750,
+          "endYear": -730,
+          "sortYear": -740,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Joel",
+          "book": "Joel",
+          "canonicalBookIndex": 28,
+          "startYear": -400,
+          "endYear": -330,
+          "sortYear": -365,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Amos",
+          "book": "Amos",
+          "canonicalBookIndex": 29,
+          "startYear": -760,
+          "endYear": -740,
+          "sortYear": -750,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Obad",
+          "book": "Obadiah",
+          "canonicalBookIndex": 30,
+          "startYear": -600,
+          "endYear": -580,
+          "sortYear": -590,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Jonah",
+          "book": "Jonah",
+          "canonicalBookIndex": 31,
+          "startYear": -500,
+          "endYear": -395,
+          "sortYear": -447,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Mic",
+          "book": "Micah",
+          "canonicalBookIndex": 32,
+          "startYear": -750,
+          "endYear": -730,
+          "sortYear": -740,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Nah",
+          "book": "Nahum",
+          "canonicalBookIndex": 33,
+          "startYear": -650,
+          "endYear": -630,
+          "sortYear": -640,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Hab",
+          "book": "Habakkuk",
+          "canonicalBookIndex": 34,
+          "startYear": -620,
+          "endYear": -600,
+          "sortYear": -610,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Zeph",
+          "book": "Zephaniah",
+          "canonicalBookIndex": 35,
+          "startYear": -640,
+          "endYear": -620,
+          "sortYear": -630,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Hag",
+          "book": "Haggai",
+          "canonicalBookIndex": 36,
+          "startYear": -520,
+          "endYear": -515,
+          "sortYear": -517,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Zech",
+          "book": "Zechariah",
+          "canonicalBookIndex": 37,
+          "startYear": -520,
+          "endYear": -443,
+          "sortYear": -481,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Mal",
+          "book": "Malachi",
+          "canonicalBookIndex": 38,
+          "startYear": -500,
+          "endYear": -475,
+          "sortYear": -487,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Matt",
+          "book": "Matthew",
+          "canonicalBookIndex": 39,
+          "startYear": 35,
+          "endYear": 70,
+          "sortYear": 53,
+          "confidence": "low",
+          "note": "Earliest Jesus tradition strata behind Matthew."
+        },
+        {
+          "abbr": "Mark",
+          "book": "Mark",
+          "canonicalBookIndex": 40,
+          "startYear": 35,
+          "endYear": 70,
+          "sortYear": 53,
+          "confidence": "low",
+          "note": "Earliest Jesus tradition strata behind Mark."
+        },
+        {
+          "abbr": "Luke",
+          "book": "Luke",
+          "canonicalBookIndex": 41,
+          "startYear": 35,
+          "endYear": 80,
+          "sortYear": 58,
+          "confidence": "low",
+          "note": "Earliest Jesus tradition strata behind Luke."
+        },
+        {
+          "abbr": "John",
+          "book": "John",
+          "canonicalBookIndex": 42,
+          "startYear": 50,
+          "endYear": 95,
+          "sortYear": 73,
+          "confidence": "low",
+          "note": "Earliest Johannine tradition layers."
+        },
+        {
+          "abbr": "Acts",
+          "book": "Acts",
+          "canonicalBookIndex": 43,
+          "startYear": 35,
+          "endYear": 80,
+          "sortYear": 58,
+          "confidence": "low",
+          "note": "Earliest Lukan source strata behind Acts."
+        },
+        {
+          "abbr": "Rom",
+          "book": "Romans",
+          "canonicalBookIndex": 44,
+          "startYear": 57,
+          "endYear": 58,
+          "sortYear": 58,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "1Cor",
+          "book": "1 Corinthians",
+          "canonicalBookIndex": 45,
+          "startYear": 53,
+          "endYear": 57,
+          "sortYear": 55,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2Cor",
+          "book": "2 Corinthians",
+          "canonicalBookIndex": 46,
+          "startYear": 55,
+          "endYear": 58,
+          "sortYear": 57,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Gal",
+          "book": "Galatians",
+          "canonicalBookIndex": 47,
+          "startYear": 48,
+          "endYear": 55,
+          "sortYear": 52,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Eph",
+          "book": "Ephesians",
+          "canonicalBookIndex": 48,
+          "startYear": 80,
+          "endYear": 90,
+          "sortYear": 85,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Phil",
+          "book": "Philippians",
+          "canonicalBookIndex": 49,
+          "startYear": 54,
+          "endYear": 55,
+          "sortYear": 55,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Col",
+          "book": "Colossians",
+          "canonicalBookIndex": 50,
+          "startYear": 62,
+          "endYear": 82,
+          "sortYear": 72,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "1Thess",
+          "book": "1 Thessalonians",
+          "canonicalBookIndex": 51,
+          "startYear": 51,
+          "endYear": 51,
+          "sortYear": 51,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2Thess",
+          "book": "2 Thessalonians",
+          "canonicalBookIndex": 52,
+          "startYear": 51,
+          "endYear": 71,
+          "sortYear": 61,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "1Tim",
+          "book": "1 Timothy",
+          "canonicalBookIndex": 53,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2Tim",
+          "book": "2 Timothy",
+          "canonicalBookIndex": 54,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Titus",
+          "book": "Titus",
+          "canonicalBookIndex": 55,
+          "startYear": 100,
+          "endYear": 100,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Phlm",
+          "book": "Philemon",
+          "canonicalBookIndex": 56,
+          "startYear": 54,
+          "endYear": 55,
+          "sortYear": 55,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Heb",
+          "book": "Hebrews",
+          "canonicalBookIndex": 57,
+          "startYear": 60,
+          "endYear": 80,
+          "sortYear": 70,
+          "confidence": "low",
+          "note": "Earliest sermonic/epistolary layer estimate."
+        },
+        {
+          "abbr": "Jas",
+          "book": "James",
+          "canonicalBookIndex": 58,
+          "startYear": 40,
+          "endYear": 70,
+          "sortYear": 55,
+          "confidence": "low",
+          "note": "Earliest paraenetic tradition layer estimate."
+        },
+        {
+          "abbr": "1Pet",
+          "book": "1 Peter",
+          "canonicalBookIndex": 59,
+          "startYear": 75,
+          "endYear": 90,
+          "sortYear": 83,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2Pet",
+          "book": "2 Peter",
+          "canonicalBookIndex": 60,
+          "startYear": 110,
+          "endYear": 110,
+          "sortYear": 110,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "1John",
+          "book": "1 John",
+          "canonicalBookIndex": 61,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "2John",
+          "book": "2 John",
+          "canonicalBookIndex": 62,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "3John",
+          "book": "3 John",
+          "canonicalBookIndex": 63,
+          "startYear": 90,
+          "endYear": 110,
+          "sortYear": 100,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Jude",
+          "book": "Jude",
+          "canonicalBookIndex": 64,
+          "startYear": 65,
+          "endYear": 85,
+          "sortYear": 75,
+          "confidence": "low",
+          "note": "Earliest recoverable layer estimate (coarse, profile-level)."
+        },
+        {
+          "abbr": "Rev",
+          "book": "Revelation",
+          "canonicalBookIndex": 65,
+          "startYear": 68,
+          "endYear": 95,
+          "sortYear": 82,
+          "confidence": "low",
+          "note": "Earliest apocalyptic layer estimate before final publication."
+        }
+      ]
+    }
+  },
+  "books": [
+    {
+      "abbr": "Gen",
+      "book": "Genesis",
+      "canonicalBookIndex": 0,
+      "startYear": -550,
+      "endYear": -400,
+      "sortYear": -475,
+      "confidence": "medium",
+      "note": "Post-exilic synthesis of Priestly and non-Priestly material."
+    },
+    {
+      "abbr": "Exod",
+      "book": "Exodus",
+      "canonicalBookIndex": 1,
+      "startYear": -700,
+      "endYear": -400,
+      "sortYear": -550,
+      "confidence": "low",
+      "note": "Composite anthology spanning multiple periods; final form post-exilic."
+    },
+    {
+      "abbr": "Lev",
+      "book": "Leviticus",
+      "canonicalBookIndex": 2,
+      "startYear": -600,
+      "endYear": -400,
+      "sortYear": -500,
+      "confidence": "medium",
+      "note": "Predominantly Priestly, exilic or post-exilic."
+    },
+    {
+      "abbr": "Num",
+      "book": "Numbers",
+      "canonicalBookIndex": 3,
+      "startYear": -700,
+      "endYear": -400,
+      "sortYear": -550,
+      "confidence": "low",
+      "note": "Priestly redaction over older narrative strata."
+    },
+    {
+      "abbr": "Deut",
+      "book": "Deuteronomy",
+      "canonicalBookIndex": 4,
+      "startYear": -700,
+      "endYear": -400,
+      "sortYear": -550,
+      "confidence": "medium",
+      "note": "Late monarchic law core with exilic and post-exilic expansions."
+    },
+    {
+      "abbr": "Josh",
+      "book": "Joshua",
+      "canonicalBookIndex": 5,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with later editorial growth."
+    },
+    {
+      "abbr": "Judg",
+      "book": "Judges",
+      "canonicalBookIndex": 6,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with exilic shaping."
+    },
+    {
+      "abbr": "Ruth",
+      "book": "Ruth",
+      "canonicalBookIndex": 7,
+      "startYear": -500,
+      "endYear": -300,
+      "sortYear": -400,
+      "confidence": "medium",
+      "note": "Commonly dated to the Persian period."
+    },
+    {
+      "abbr": "1Sam",
+      "book": "1 Samuel",
+      "canonicalBookIndex": 8,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with exilic shaping."
+    },
+    {
+      "abbr": "2Sam",
+      "book": "2 Samuel",
+      "canonicalBookIndex": 9,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with exilic shaping."
+    },
+    {
+      "abbr": "1Kgs",
+      "book": "1 Kings",
+      "canonicalBookIndex": 10,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with exilic shaping."
+    },
+    {
+      "abbr": "2Kgs",
+      "book": "2 Kings",
+      "canonicalBookIndex": 11,
+      "startYear": -620,
+      "endYear": -500,
+      "sortYear": -560,
+      "confidence": "medium",
+      "note": "Part of the Deuteronomistic history with exilic shaping."
+    },
+    {
+      "abbr": "1Chr",
+      "book": "1 Chronicles",
+      "canonicalBookIndex": 12,
+      "startYear": -400,
+      "endYear": -250,
+      "sortYear": -325,
+      "confidence": "medium",
+      "note": "Chronicles is commonly placed in the Persian or early Hellenistic era."
+    },
+    {
+      "abbr": "2Chr",
+      "book": "2 Chronicles",
+      "canonicalBookIndex": 13,
+      "startYear": -400,
+      "endYear": -250,
+      "sortYear": -325,
+      "confidence": "medium",
+      "note": "Chronicles is commonly placed in the Persian or early Hellenistic era."
+    },
+    {
+      "abbr": "Ezra",
+      "book": "Ezra",
+      "canonicalBookIndex": 14,
+      "startYear": -350,
+      "endYear": -200,
+      "sortYear": -275,
+      "confidence": "medium",
+      "note": "Final form often placed in the late Persian to Ptolemaic period."
+    },
+    {
+      "abbr": "Neh",
+      "book": "Nehemiah",
+      "canonicalBookIndex": 15,
+      "startYear": -350,
+      "endYear": -200,
+      "sortYear": -275,
+      "confidence": "medium",
+      "note": "Final form often placed in the late Persian to Ptolemaic period."
+    },
+    {
+      "abbr": "Esth",
+      "book": "Esther",
+      "canonicalBookIndex": 16,
+      "startYear": -400,
+      "endYear": -250,
+      "sortYear": -325,
+      "confidence": "medium",
+      "note": "Often dated to the 4th or 3rd century BCE."
+    },
+    {
+      "abbr": "Job",
+      "book": "Job",
+      "canonicalBookIndex": 17,
+      "startYear": -600,
+      "endYear": -400,
+      "sortYear": -500,
+      "confidence": "medium",
+      "note": "Commonly dated between the 6th and 4th centuries BCE."
+    },
+    {
+      "abbr": "Ps",
+      "book": "Psalm",
+      "canonicalBookIndex": 18,
+      "startYear": -1000,
+      "endYear": -100,
+      "sortYear": -550,
+      "confidence": "low",
+      "note": "Layered anthology with long transmission and expansion history."
+    },
+    {
+      "abbr": "Prov",
+      "book": "Proverbs",
+      "canonicalBookIndex": 19,
+      "startYear": -900,
+      "endYear": -300,
+      "sortYear": -600,
+      "confidence": "low",
+      "note": "Collection of collections assembled over many centuries."
+    },
+    {
+      "abbr": "Eccl",
+      "book": "Ecclesiastes",
+      "canonicalBookIndex": 20,
+      "startYear": -450,
+      "endYear": -180,
+      "sortYear": -315,
+      "confidence": "high",
+      "note": "Usually dated between Persian and early Hellenistic periods."
+    },
+    {
+      "abbr": "Song",
+      "book": "Song of Solomon",
+      "canonicalBookIndex": 21,
+      "startYear": -500,
+      "endYear": -200,
+      "sortYear": -350,
+      "confidence": "low",
+      "note": "Often placed in the post-exilic period, with broad uncertainty."
+    },
+    {
+      "abbr": "Isa",
+      "book": "Isaiah",
+      "canonicalBookIndex": 22,
+      "startYear": -740,
+      "endYear": -500,
+      "sortYear": -620,
+      "confidence": "medium",
+      "note": "Composite work spanning Proto-, Deutero-, and Trito-Isaiah layers."
+    },
+    {
+      "abbr": "Jer",
+      "book": "Jeremiah",
+      "canonicalBookIndex": 23,
+      "startYear": -650,
+      "endYear": -200,
+      "sortYear": -425,
+      "confidence": "low",
+      "note": "Core prophetic material with major editorial development and textual recensions."
+    },
+    {
+      "abbr": "Lam",
+      "book": "Lamentations",
+      "canonicalBookIndex": 24,
+      "startYear": -586,
+      "endYear": -500,
+      "sortYear": -543,
+      "confidence": "medium",
+      "note": "Usually tied to the destruction of Jerusalem and early exilic aftermath."
+    },
+    {
+      "abbr": "Ezek",
+      "book": "Ezekiel",
+      "canonicalBookIndex": 25,
+      "startYear": -593,
+      "endYear": -500,
+      "sortYear": -546,
+      "confidence": "medium",
+      "note": "Vision core dates to exile; later school additions likely present."
+    },
+    {
+      "abbr": "Dan",
+      "book": "Daniel",
+      "canonicalBookIndex": 26,
+      "startYear": -167,
+      "endYear": -164,
+      "sortYear": -165,
+      "confidence": "high",
+      "note": "Widely dated to the Maccabean period."
+    },
+    {
+      "abbr": "Hos",
+      "book": "Hosea",
+      "canonicalBookIndex": 27,
+      "startYear": -750,
+      "endYear": -700,
+      "sortYear": -725,
+      "confidence": "medium",
+      "note": "Core prophetic tradition in the late 8th century BCE."
+    },
+    {
+      "abbr": "Joel",
+      "book": "Joel",
+      "canonicalBookIndex": 28,
+      "startYear": -400,
+      "endYear": -200,
+      "sortYear": -300,
+      "confidence": "low",
+      "note": "Usually dated to late Persian or Hellenistic period."
+    },
+    {
+      "abbr": "Amos",
+      "book": "Amos",
+      "canonicalBookIndex": 29,
+      "startYear": -760,
+      "endYear": -730,
+      "sortYear": -745,
+      "confidence": "medium",
+      "note": "Core prophetic tradition in the first half of the 8th century BCE."
+    },
+    {
+      "abbr": "Obad",
+      "book": "Obadiah",
+      "canonicalBookIndex": 30,
+      "startYear": -600,
+      "endYear": -550,
+      "sortYear": -575,
+      "confidence": "medium",
+      "note": "Often linked to the aftermath of Jerusalem's fall."
+    },
+    {
+      "abbr": "Jonah",
+      "book": "Jonah",
+      "canonicalBookIndex": 31,
+      "startYear": -500,
+      "endYear": -200,
+      "sortYear": -350,
+      "confidence": "low",
+      "note": "Usually dated to Persian or Hellenistic period."
+    },
+    {
+      "abbr": "Mic",
+      "book": "Micah",
+      "canonicalBookIndex": 32,
+      "startYear": -750,
+      "endYear": -700,
+      "sortYear": -725,
+      "confidence": "medium",
+      "note": "Often placed in the late 8th century BCE."
+    },
+    {
+      "abbr": "Nah",
+      "book": "Nahum",
+      "canonicalBookIndex": 33,
+      "startYear": -650,
+      "endYear": -612,
+      "sortYear": -631,
+      "confidence": "medium",
+      "note": "Likely before Nineveh's destruction in 612 BCE."
+    },
+    {
+      "abbr": "Hab",
+      "book": "Habakkuk",
+      "canonicalBookIndex": 34,
+      "startYear": -620,
+      "endYear": -600,
+      "sortYear": -610,
+      "confidence": "medium",
+      "note": "Often placed shortly before the Battle of Carchemish."
+    },
+    {
+      "abbr": "Zeph",
+      "book": "Zephaniah",
+      "canonicalBookIndex": 35,
+      "startYear": -640,
+      "endYear": -609,
+      "sortYear": -624,
+      "confidence": "medium",
+      "note": "Usually linked to the reign of Josiah."
+    },
+    {
+      "abbr": "Hag",
+      "book": "Haggai",
+      "canonicalBookIndex": 36,
+      "startYear": -520,
+      "endYear": -515,
+      "sortYear": -517,
+      "confidence": "high",
+      "note": "Self-dated to early Persian period under Darius I."
+    },
+    {
+      "abbr": "Zech",
+      "book": "Zechariah",
+      "canonicalBookIndex": 37,
+      "startYear": -520,
+      "endYear": -300,
+      "sortYear": -410,
+      "confidence": "medium",
+      "note": "Early chapters Persian; later chapters often dated later."
+    },
+    {
+      "abbr": "Mal",
+      "book": "Malachi",
+      "canonicalBookIndex": 38,
+      "startYear": -500,
+      "endYear": -430,
+      "sortYear": -465,
+      "confidence": "medium",
+      "note": "Usually placed in the 5th century BCE."
+    },
+    {
+      "abbr": "Matt",
+      "book": "Matthew",
+      "canonicalBookIndex": 39,
+      "startYear": 80,
+      "endYear": 90,
+      "sortYear": 85,
+      "confidence": "high",
+      "note": "Commonly dated after Mark and after the destruction of the Temple."
+    },
+    {
+      "abbr": "Mark",
+      "book": "Mark",
+      "canonicalBookIndex": 40,
+      "startYear": 65,
+      "endYear": 73,
+      "sortYear": 69,
+      "confidence": "high",
+      "note": "Commonly dated around the First Jewish-Roman War period."
+    },
+    {
+      "abbr": "Luke",
+      "book": "Luke",
+      "canonicalBookIndex": 41,
+      "startYear": 80,
+      "endYear": 90,
+      "sortYear": 85,
+      "confidence": "high",
+      "note": "Usually dated a generation after Jesus tradition and after Mark."
+    },
+    {
+      "abbr": "John",
+      "book": "John",
+      "canonicalBookIndex": 42,
+      "startYear": 90,
+      "endYear": 100,
+      "sortYear": 95,
+      "confidence": "high",
+      "note": "Commonly placed at the end of the 1st century CE."
+    },
+    {
+      "abbr": "Acts",
+      "book": "Acts",
+      "canonicalBookIndex": 43,
+      "startYear": 80,
+      "endYear": 90,
+      "sortYear": 85,
+      "confidence": "medium",
+      "note": "Often aligned with Luke's dating, with ongoing debate."
+    },
+    {
+      "abbr": "Rom",
+      "book": "Romans",
+      "canonicalBookIndex": 44,
+      "startYear": 57,
+      "endYear": 58,
+      "sortYear": 58,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter."
+    },
+    {
+      "abbr": "1Cor",
+      "book": "1 Corinthians",
+      "canonicalBookIndex": 45,
+      "startYear": 53,
+      "endYear": 57,
+      "sortYear": 55,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter."
+    },
+    {
+      "abbr": "2Cor",
+      "book": "2 Corinthians",
+      "canonicalBookIndex": 46,
+      "startYear": 55,
+      "endYear": 58,
+      "sortYear": 57,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter."
+    },
+    {
+      "abbr": "Gal",
+      "book": "Galatians",
+      "canonicalBookIndex": 47,
+      "startYear": 48,
+      "endYear": 55,
+      "sortYear": 52,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter; date depends on North/South Galatia model."
+    },
+    {
+      "abbr": "Eph",
+      "book": "Ephesians",
+      "canonicalBookIndex": 48,
+      "startYear": 80,
+      "endYear": 90,
+      "sortYear": 85,
+      "confidence": "medium",
+      "note": "Often considered deutero-Pauline and dated after Paul."
+    },
+    {
+      "abbr": "Phil",
+      "book": "Philippians",
+      "canonicalBookIndex": 49,
+      "startYear": 54,
+      "endYear": 55,
+      "sortYear": 55,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter, often linked to imprisonment."
+    },
+    {
+      "abbr": "Col",
+      "book": "Colossians",
+      "canonicalBookIndex": 50,
+      "startYear": 62,
+      "endYear": 90,
+      "sortYear": 76,
+      "confidence": "medium",
+      "note": "Range reflects disputed Pauline authorship."
+    },
+    {
+      "abbr": "1Thess",
+      "book": "1 Thessalonians",
+      "canonicalBookIndex": 51,
+      "startYear": 51,
+      "endYear": 51,
+      "sortYear": 51,
+      "confidence": "high",
+      "note": "Among the earliest undisputed Pauline letters."
+    },
+    {
+      "abbr": "2Thess",
+      "book": "2 Thessalonians",
+      "canonicalBookIndex": 52,
+      "startYear": 51,
+      "endYear": 90,
+      "sortYear": 71,
+      "confidence": "low",
+      "note": "Range reflects dispute between Pauline and later authorship."
+    },
+    {
+      "abbr": "1Tim",
+      "book": "1 Timothy",
+      "canonicalBookIndex": 53,
+      "startYear": 100,
+      "endYear": 100,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Pastoral epistle usually dated to early 2nd century CE."
+    },
+    {
+      "abbr": "2Tim",
+      "book": "2 Timothy",
+      "canonicalBookIndex": 54,
+      "startYear": 100,
+      "endYear": 100,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Pastoral epistle usually dated to early 2nd century CE."
+    },
+    {
+      "abbr": "Titus",
+      "book": "Titus",
+      "canonicalBookIndex": 55,
+      "startYear": 100,
+      "endYear": 100,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Pastoral epistle usually dated to early 2nd century CE."
+    },
+    {
+      "abbr": "Phlm",
+      "book": "Philemon",
+      "canonicalBookIndex": 56,
+      "startYear": 54,
+      "endYear": 55,
+      "sortYear": 55,
+      "confidence": "high",
+      "note": "Undisputed Pauline letter."
+    },
+    {
+      "abbr": "Heb",
+      "book": "Hebrews",
+      "canonicalBookIndex": 57,
+      "startYear": 80,
+      "endYear": 90,
+      "sortYear": 85,
+      "confidence": "medium",
+      "note": "Generally non-Pauline; often dated late 1st century CE."
+    },
+    {
+      "abbr": "Jas",
+      "book": "James",
+      "canonicalBookIndex": 58,
+      "startYear": 65,
+      "endYear": 85,
+      "sortYear": 75,
+      "confidence": "medium",
+      "note": "Broad late 1st century range in critical scholarship."
+    },
+    {
+      "abbr": "1Pet",
+      "book": "1 Peter",
+      "canonicalBookIndex": 59,
+      "startYear": 75,
+      "endYear": 90,
+      "sortYear": 83,
+      "confidence": "medium",
+      "note": "Often dated in the late 1st century CE."
+    },
+    {
+      "abbr": "2Pet",
+      "book": "2 Peter",
+      "canonicalBookIndex": 60,
+      "startYear": 110,
+      "endYear": 110,
+      "sortYear": 110,
+      "confidence": "high",
+      "note": "Commonly considered the latest New Testament writing."
+    },
+    {
+      "abbr": "1John",
+      "book": "1 John",
+      "canonicalBookIndex": 61,
+      "startYear": 90,
+      "endYear": 110,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Usually dated around the turn of the 2nd century CE."
+    },
+    {
+      "abbr": "2John",
+      "book": "2 John",
+      "canonicalBookIndex": 62,
+      "startYear": 90,
+      "endYear": 110,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Usually dated around the turn of the 2nd century CE."
+    },
+    {
+      "abbr": "3John",
+      "book": "3 John",
+      "canonicalBookIndex": 63,
+      "startYear": 90,
+      "endYear": 110,
+      "sortYear": 100,
+      "confidence": "medium",
+      "note": "Usually dated around the turn of the 2nd century CE."
+    },
+    {
+      "abbr": "Jude",
+      "book": "Jude",
+      "canonicalBookIndex": 64,
+      "startYear": 65,
+      "endYear": 100,
+      "sortYear": 83,
+      "confidence": "low",
+      "note": "Date uncertain; generally before 2 Peter."
+    },
+    {
+      "abbr": "Rev",
+      "book": "Revelation",
+      "canonicalBookIndex": 65,
+      "startYear": 95,
+      "endYear": 95,
+      "sortYear": 95,
+      "confidence": "high",
+      "note": "Commonly associated with Domitian's reign."
+    }
+  ]
+}

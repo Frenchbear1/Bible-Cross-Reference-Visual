@@ -1,0 +1,67 @@
+canonical_index,abbr,book,start_year,end_year,sort_year,start_label,end_label,sort_label,confidence,note
+1,Gen,Genesis,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional Mosaic authorship window.
+2,Exod,Exodus,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional Mosaic authorship window.
+3,Lev,Leviticus,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional Mosaic authorship window.
+4,Num,Numbers,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional Mosaic authorship window.
+5,Deut,Deuteronomy,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional Mosaic authorship window.
+6,Josh,Joshua,-1400,-1300,-1350,1400 BCE,1300 BCE,1350 BCE,low,Traditional attribution to Joshua with later updates.
+7,Judg,Judges,-1100,-1000,-1050,1100 BCE,1000 BCE,1050 BCE,low,Traditional attribution to Samuel-era compilation.
+8,Ruth,Ruth,-1050,-1000,-1025,1050 BCE,1000 BCE,1025 BCE,low,Traditionally linked to early monarchy context.
+9,1Sam,1 Samuel,-1000,-930,-965,1000 BCE,930 BCE,965 BCE,low,Traditional attribution to Samuel/Gad/Nathan tradition.
+10,2Sam,2 Samuel,-980,-920,-950,980 BCE,920 BCE,950 BCE,low,Traditional attribution to Samuel/Gad/Nathan tradition.
+11,1Kgs,1 Kings,-970,-560,-765,970 BCE,560 BCE,765 BCE,low,Traditionally linked to prophetic historiography.
+12,2Kgs,2 Kings,-970,-560,-765,970 BCE,560 BCE,765 BCE,low,Traditionally linked to prophetic historiography.
+13,1Chr,1 Chronicles,-500,-430,-465,500 BCE,430 BCE,465 BCE,medium,Traditionally attributed to Ezra.
+14,2Chr,2 Chronicles,-500,-430,-465,500 BCE,430 BCE,465 BCE,medium,Traditionally attributed to Ezra.
+15,Ezra,Ezra,-460,-430,-445,460 BCE,430 BCE,445 BCE,medium,Traditionally linked to Ezra's own period.
+16,Neh,Nehemiah,-445,-430,-437,445 BCE,430 BCE,437 BCE,medium,Traditionally linked to Nehemiah's memoirs.
+17,Esth,Esther,-470,-460,-465,470 BCE,460 BCE,465 BCE,low,Traditional Persian-era placement shortly after events.
+18,Job,Job,-1500,-1400,-1450,1500 BCE,1400 BCE,1450 BCE,low,Traditional patriarchal-era setting/authorship view.
+19,Ps,Psalm,-1000,-400,-700,1000 BCE,400 BCE,700 BCE,low,Traditional Davidic-centered anthology with later additions.
+20,Prov,Proverbs,-950,-700,-825,950 BCE,700 BCE,825 BCE,low,Traditional Solomonic core with later editorial collection.
+21,Eccl,Ecclesiastes,-950,-930,-940,950 BCE,930 BCE,940 BCE,low,Traditional Solomonic attribution.
+22,Song,Song of Solomon,-950,-930,-940,950 BCE,930 BCE,940 BCE,low,Traditional Solomonic attribution.
+23,Isa,Isaiah,-740,-680,-710,740 BCE,680 BCE,710 BCE,medium,Traditional attribution centered on 8th-century Isaiah ministry.
+24,Jer,Jeremiah,-627,-570,-598,627 BCE,570 BCE,598 BCE,medium,Traditional attribution centered on Jeremiah's ministry years.
+25,Lam,Lamentations,-586,-580,-583,586 BCE,580 BCE,583 BCE,medium,Traditional attribution to Jeremiah after Jerusalem's fall.
+26,Ezek,Ezekiel,-593,-570,-581,593 BCE,570 BCE,581 BCE,medium,Traditional attribution to Ezekiel in exile.
+27,Dan,Daniel,-605,-530,-567,605 BCE,530 BCE,567 BCE,low,Traditional 6th-century BCE Danielic setting.
+28,Hos,Hosea,-755,-715,-735,755 BCE,715 BCE,735 BCE,medium,Traditional dating to Hosea's prophetic ministry.
+29,Joel,Joel,-830,-750,-790,830 BCE,750 BCE,790 BCE,low,Traditional early-monarchy dating option.
+30,Amos,Amos,-760,-750,-755,760 BCE,750 BCE,755 BCE,medium,Traditional dating to Amos's prophetic ministry.
+31,Obad,Obadiah,-845,-840,-842,845 BCE,840 BCE,842 BCE,low,Traditional early date associated with Edomite conflict.
+32,Jonah,Jonah,-780,-760,-770,780 BCE,760 BCE,770 BCE,low,Traditional dating to 8th-century prophetic context.
+33,Mic,Micah,-740,-700,-720,740 BCE,700 BCE,720 BCE,medium,Traditional dating to Micah's prophetic ministry.
+34,Nah,Nahum,-663,-612,-637,663 BCE,612 BCE,637 BCE,medium,Traditional dating before Nineveh's fall.
+35,Hab,Habakkuk,-620,-605,-612,620 BCE,605 BCE,612 BCE,medium,Traditional late pre-exilic dating.
+36,Zeph,Zephaniah,-640,-620,-630,640 BCE,620 BCE,630 BCE,medium,Traditional Josianic-period dating.
+37,Hag,Haggai,-520,-515,-517,520 BCE,515 BCE,517 BCE,high,Self-dated Persian-period prophecy.
+38,Zech,Zechariah,-520,-480,-500,520 BCE,480 BCE,500 BCE,medium,Traditional Persian-period dating.
+39,Mal,Malachi,-460,-430,-445,460 BCE,430 BCE,445 BCE,medium,Traditional post-exilic prophetic dating.
+40,Matt,Matthew,50,70,60,50 CE,70 CE,60 CE,low,Traditional early Gospel dating.
+41,Mark,Mark,55,68,62,55 CE,68 CE,62 CE,medium,Traditional pre-70 CE Gospel dating.
+42,Luke,Luke,58,63,61,58 CE,63 CE,61 CE,low,Traditional Lukan dating before Acts-era close.
+43,John,John,80,95,88,80 CE,95 CE,88 CE,medium,Traditional late-1st-century Johannine dating.
+44,Acts,Acts,62,64,63,62 CE,64 CE,63 CE,low,Traditional dating before Paul's death.
+45,Rom,Romans,57,58,58,57 CE,58 CE,58 CE,high,Traditional Pauline dating.
+46,1Cor,1 Corinthians,53,55,54,53 CE,55 CE,54 CE,high,Traditional Pauline dating.
+47,2Cor,2 Corinthians,55,57,56,55 CE,57 CE,56 CE,high,Traditional Pauline dating.
+48,Gal,Galatians,48,50,49,48 CE,50 CE,49 CE,medium,Traditional Pauline dating.
+49,Eph,Ephesians,60,62,61,60 CE,62 CE,61 CE,low,Traditional Pauline prison-epistle dating.
+50,Phil,Philippians,60,62,61,60 CE,62 CE,61 CE,high,Traditional Pauline prison-epistle dating.
+51,Col,Colossians,60,62,61,60 CE,62 CE,61 CE,low,Traditional Pauline prison-epistle dating.
+52,1Thess,1 Thessalonians,50,51,51,50 CE,51 CE,51 CE,high,Traditional Pauline dating.
+53,2Thess,2 Thessalonians,51,52,52,51 CE,52 CE,52 CE,low,Traditional Pauline dating.
+54,1Tim,1 Timothy,63,65,64,63 CE,65 CE,64 CE,low,Traditional Pauline pastoral dating.
+55,2Tim,2 Timothy,66,67,67,66 CE,67 CE,67 CE,low,Traditional Pauline pastoral dating.
+56,Titus,Titus,63,65,64,63 CE,65 CE,64 CE,low,Traditional Pauline pastoral dating.
+57,Phlm,Philemon,60,62,61,60 CE,62 CE,61 CE,high,Traditional Pauline prison-epistle dating.
+58,Heb,Hebrews,64,70,67,64 CE,70 CE,67 CE,low,Traditional pre-70 CE dating.
+59,Jas,James,45,62,54,45 CE,62 CE,54 CE,low,Traditional early church dating.
+60,1Pet,1 Peter,62,64,63,62 CE,64 CE,63 CE,low,Traditional Petrine dating.
+61,2Pet,2 Peter,64,67,66,64 CE,67 CE,66 CE,low,Traditional Petrine dating.
+62,1John,1 John,85,95,90,85 CE,95 CE,90 CE,medium,Traditional late-1st-century Johannine dating.
+63,2John,2 John,85,95,90,85 CE,95 CE,90 CE,medium,Traditional late-1st-century Johannine dating.
+64,3John,3 John,85,95,90,85 CE,95 CE,90 CE,medium,Traditional late-1st-century Johannine dating.
+65,Jude,Jude,65,80,73,65 CE,80 CE,73 CE,low,Traditional late-1st-century dating.
+66,Rev,Revelation,90,96,93,90 CE,96 CE,93 CE,medium,Traditional Domitian-era dating.
